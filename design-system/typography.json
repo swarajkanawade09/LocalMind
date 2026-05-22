@@ -1,0 +1,38 @@
+{
+  "typography": {
+    "fontFamilies": {
+      "primary": "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+      "secondary": "'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+      "mono": "'JetBrains Mono', 'Courier New', monospace"
+    },
+    "fontSize": {
+      "display1": "48px",
+      "display2": "36px",
+      "h1": "32px",
+      "h2": "28px",
+      "h3": "24px",
+      "h4": "20px",
+      "h5": "18px",
+      "bodyLarge": "16px",
+      "body": "14px",
+      "bodySmall": "12px",
+      "label": "12px",
+      "caption": "11px"
+    },
+    "fontWeight": {
+      "light": 300,
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700,
+      "extrabold": 800
+    },
+    "lineHeight": {
+      "tight": 1.2,
+      "snug": 1.3,
+      "normal": 1.4,
+      "relaxed": 1.5,
+      "loose": 1.6
+    }
+  }
+}
